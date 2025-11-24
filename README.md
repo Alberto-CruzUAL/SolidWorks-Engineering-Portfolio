@@ -57,5 +57,5 @@ Este material se presenta con fines académicos y de portafolio profesional.
 Se permite su uso como referencia educativa bajo la licencia **MIT**.
 
 ---
-**Autor:** Alberto Cruz Garcia - *Ingeniero Mecánico*
+**Autor:** Alberto Cruz Garcia - 
 **Universidad de Almería**
