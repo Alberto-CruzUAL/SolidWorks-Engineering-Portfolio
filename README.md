@@ -37,9 +37,6 @@ Los proyectos están organizados por áreas de conocimiento y complejidad:
 
 ---
 
-### 2. [Nombre de tu Segundo Proyecto]
-*(Reserva este espacio para tu próximo diseño. Si no tienes otro listo todavía, puedes borrar esta sección hasta que lo subas)*
-> **Descripción:** Modelado de superficies complejas y ensamblaje.
 
 ## 🔧 Competencias Técnicas Demostradas
 
