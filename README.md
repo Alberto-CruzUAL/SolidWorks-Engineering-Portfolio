@@ -12,12 +12,14 @@ Incluye modelado paramétrico de piezas, ensamblajes complejos, planos de fabric
 
 Los proyectos están organizados por áreas de conocimiento y complejidad:
 
+## 📂 Estructura del Portafolio
+
 | Carpeta | Descripción | Habilidades Clave |
 | :--- | :--- | :--- |
-| **`/01-Elementos-de-Maquinas`** | Diseño de componentes de transmisión y mecanismos. | Engranajes, rodamientos, ajustes y tolerancias. |
-| **`/02-Estructuras`** | Diseño de estructuras metálicas y soldadura. | Perfilería (Weldments), análisis de esfuerzos. |
-| **`/03-Examenes-Practicos`** | Pruebas de velocidad y precisión bajo límite de tiempo. | Modelado rápido, interpretación de planos. |
-| **`/Planos-PDF`** | Documentación técnica lista para taller. | Normativa ISO/DIN, cotas, vistas de sección. |
+| **`/01-Modelado 3D CAD`** | Modelado paramétrico de geometría compleja y superficies. | Sólidos multicuerpo, chapa metálica, recubrimientos y barridos. |
+| **`/02-Ensamblajes`** | Montaje de conjuntos mecánicos y diseño de estructuras soldadas. | Relaciones de posición mecánicas (Mates), detección de interferencias y *Weldments*. |
+| **`/03-Diseño CAE`** | Validación de diseños mediante simulación computacional (FEA). | Análisis estático lineal, Factor de Seguridad, Tensión de Von Mises y optimización. |
+| **`/Planos-PDF`** | Documentación técnica para fabricación y taller. | Normativa ISO/DIN, tolerancias geométricas (GD&T) y listas de materiales (BOM). |
 
 ## 🛠️ Proyectos Destacados
 
@@ -57,6 +59,4 @@ Este material se presenta con fines académicos y de portafolio profesional.
 Se permite su uso como referencia educativa bajo la licencia **MIT**.
 
 ---
-**Autor:** [Tu Nombre]
-*Ingeniero Mecánico - Universidad de Almería*
-[Enlace a tu LinkedIn]
+**Autor:** [Alberto Cruz Garcia]- Universidad de Almería*
