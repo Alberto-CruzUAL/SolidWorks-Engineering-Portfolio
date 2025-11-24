@@ -25,19 +25,21 @@ Los proyectos están organizados por áreas de conocimiento y complejidad:
 
 ### 1. Ingeniería Inversa: Mecanismo de Cortauñas
 > **Tipo de Proyecto:** Ingeniería Inversa & Modelado de Precisión.
-> **Descripción:** Desmontaje, medición dimensional y reconstrucción digital completa de un cortauñas comercial. Se analizó la cinemática del mecanismo de palanca (clase 2) y la deformación elástica de las láminas.
+> **Descripción:** Desmontaje, medición dimensional y reconstrucción digital completa de un cortauñas comercial. 
 > **Flujo de trabajo:**
 > 1.  **Metrología:** Toma de medidas con pie de rey digital y galgas de radios.
 > 2.  **Modelado:** Creación de piezas con superficies curvas y operaciones de chapa metálica.
-> 3.  **Ensamblaje:** Definición de relaciones de posición (mates) para simular el rango de movimiento real y el contacto de corte.
+> 3.  **Ensamblaje:** Definición de relaciones de posición (mates) para simular el rango de movimiento real.
 
 ![Render Cortauñas](https://via.placeholder.com/600x300?text=Render+vs+Foto+Real)
 *(Consejo: Aquí quedaría genial una imagen partida por la mitad: Izquierda el objeto real / Derecha tu render)*
+<img width="559" height="745" alt="image" src="https://github.com/user-attachments/assets/8cd7179d-e809-4c36-9ab9-193e18c9994e" />
 
 ---
 
 ![Imagen del Proyecto 1](https://via.placeholder.com/600x300?text=Sube+tu+Render+Aqui)
 *(Reemplaza este link con la url de tu imagen)*
+<img width="356" height="333" alt="image" src="https://github.com/user-attachments/assets/6b30cdc7-5a1b-428b-a565-4f1ff8443a6b" />
 
 ---
 
