@@ -33,7 +33,9 @@ Los proyectos están organizados por áreas de conocimiento y complejidad:
 
 | 1. Estudio del Mecanismo Real | 2. Modelado Final (Vista ISO) |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/8cd7179d-e809-4c36-9ab9-193e18c9994e" width="400" alt="Mecanismo Real"> | <img src="https://github.com/user-attachments/assets/6b30cdc7-5a1b-428b-a565-4f1ff8443a6b" width="400" alt="Ensamblaje ISO"> |
+| <img src="https://github.com/user-attachments/assets/6b30cdc7-5a1b-428b-a565-4f1ff8443a6b" width="400" alt="Mecanismo Real"> | <img src="(https://github.com/user-attachments/assets/8cd7179d-e809-4c36-9ab9-193e18c9994e)" width="400" alt="Ensamblaje ISO"> |
+
+
 
 ---
 
