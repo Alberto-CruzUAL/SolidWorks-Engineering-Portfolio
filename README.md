@@ -36,6 +36,9 @@ Los proyectos están organizados por áreas de conocimiento y complejidad:
 | <img src="https://github.com/user-attachments/assets/6b30cdc7-5a1b-428b-a565-4f1ff8443a6b" width="400" alt="Mecanismo Real"> | <img src="https://github.com/user-attachments/assets/8cd7179d-e809-4c36-9ab9-193e18c9994e" width="400" alt="Ensamblaje ISO"> |
 
 ---
+| 2.  estructura de la escalera metálica |
+| :---: | :---: |
+<img width="548" height="711" alt="image" src="https://github.com/user-attachments/assets/c151b69e-9afb-49fc-8e3f-99854da6c32f" />
 
 
 ## 🔧 Competencias Técnicas Demostradas
@@ -48,7 +51,7 @@ Los proyectos están organizados por áreas de conocimiento y complejidad:
 ## 💻 Requisitos de Software
 
 Los archivos fuente (`.SLDPRT`, `.SLDASM`) han sido generados con:
-* **SolidWorks 2023**.
+* **SolidWorks 2025**.
 * *Nota: Se adjuntan archivos STEP/IGES universales en cada carpeta para visualización general en versiones anteriores u otro software CAD.*
 
 ## 📄 Licencia y Uso
