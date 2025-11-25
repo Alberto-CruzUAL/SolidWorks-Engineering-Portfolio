@@ -35,10 +35,22 @@ Los proyectos están organizados por áreas de conocimiento y complejidad:
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/6b30cdc7-5a1b-428b-a565-4f1ff8443a6b" width="400" alt="Mecanismo Real"> | <img src="https://github.com/user-attachments/assets/8cd7179d-e809-4c36-9ab9-193e18c9994e" width="400" alt="Ensamblaje ISO"> |
 
----
-| 2.  estructura de la escalera metálica |
-| :---: | :---: |
-<img width="548" height="711" alt="image" src="https://github.com/user-attachments/assets/c151b69e-9afb-49fc-8e3f-99854da6c32f" />
+2. Diseño Estructural: Escalera Metálica
+Tipo de Proyecto: Diseño Estructural & Documentación Técnica.
+Descripción: Modelado y documentación completa de una escalera metálica industrial con plano técnico detallado para fabricación.
+Habilidades demostradas:
+
+Diseño de estructuras metálicas
+
+Generación de planos de taller
+
+Especificaciones dimensionales y técnicas
+
+Documentación para procesos de fabricación
+
+🏗️ Detalle Estructural de la Escalera
+Plano Técnico de Fabricación
+<img width="548" height="711" alt="Estructura de Escalera Metálica" src="https://github.com/user-attachments/assets/c151b69e-9afb-49fc-8e3f-99854da6c32f" />
 
 
 ## 🔧 Competencias Técnicas Demostradas
